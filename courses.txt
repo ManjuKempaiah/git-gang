@@ -5,3 +5,4 @@ aws
 devops
 docker
 maven
+sonar
